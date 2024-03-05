@@ -72,4 +72,4 @@ G92 E0</br>
 
 ![image](https://github.com/ViktorDiy/FLSUN-V400-nozzle-wipe/assets/147925158/1a70a169-4a22-4097-bb0b-95009762da92)</br>
 </br>
-Befor start of heating nozzle and plate bucked should move to wiping position and nozzel to the center under the bucket. During nozzel and plate heating waste filament from nozzel will drop to the bucket. After nozzel and plate heating nozzel will be wiped by metal brush. And Then printing will start as usual.
+Befor start of heating nozzle and plate bucked should move to wiping position and nozzel to the center under the bucket. During nozzel and plate heating waste filament from nozzel will drop to the bucket. After nozzel and plate heating nozzel will be wiped by metal brush. And then printing will start as usual.
