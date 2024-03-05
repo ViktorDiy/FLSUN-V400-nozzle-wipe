@@ -21,7 +21,6 @@ I connected PWM servo pin to E1 STEP pin PD15 and power to BLTOUCH GND and +5V:<
 </br>
 Setup jumpers for STEP/DIR mode:</br>
 ![image](https://github.com/ViktorDiy/FLSUN-V400-nozzle-wipe/assets/147925158/01bf16a8-234c-447c-a957-c3a122b4de70)</br>
-
 </br>
 MG90S servo pinout:</br>
 ![image](https://github.com/ViktorDiy/FLSUN-V400-nozzle-wipe/assets/147925158/5bb4ba07-d599-49fb-af3d-2f71cc971184)</br>
