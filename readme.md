@@ -46,3 +46,30 @@ and Xaxis (front/face of printer).</br>
 And you should find nozzle position under center of the backet. You should move printer head manualy to nozzel position under center of the backet and 1-2 mm lower
 than metal brash.</br>
 You should write this X,Y,Z volumes to nozzelwiper.cfg file.</br>
+
+How I use this setup... How I configured it...
+
+I put macroses from nozzelwiper.cfg to slicer Machine start G-CODE and it looks like:</br>
+</br>
+G21</br>
+G90</br>
+M82</br>
+G28</br>
+NW_DEPLOY</br>
+M107 T0</br>
+M140 S[bed_temperature_initial_layer_single]</br>
+M104 S[nozzle_temperature_initial_layer] T0</br>
+M190 S[bed_temperature_initial_layer_single]</br>
+M109 S[nozzle_temperature_initial_layer] T0</br>
+NW_WIPE</br>
+NW_RETRACT</br>
+G1 F3000 Z1</br>
+G1 X-150 Y0 Z0.4</br>
+G92 E0</br>
+G3 X0 Y-130 I150 Z0.3 E30 F2000</br>
+G92 E0</br>
+</br>
+
+![image](https://github.com/ViktorDiy/FLSUN-V400-nozzle-wipe/assets/147925158/1a70a169-4a22-4097-bb0b-95009762da92)</br>
+</br>
+Befor start of heating nozzle and plate bucked should move to wiping position and nozzel to the center under the bucket. During nozzel and plate heating waste filament from nozzel will drop to the bucket. After nozzel and plate heating nozzel will be wiped by metal brush. And Then printing will start as usual.
