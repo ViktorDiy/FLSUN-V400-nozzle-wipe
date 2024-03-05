@@ -2,7 +2,6 @@ It really can save a lot of time...</br>
 https://www.facebook.com/100094217897627/videos/2682152451932166/ </br>
 </br>
 For this setup you need:</br>
-</br>
 - x1 M4 20mm screw </br>
 - x2 M4 nut</br>
 - x2 bearing 624 ZZ or another wiht 4mm inner diameter, 13mm outer diameter and 5mm width</br>
