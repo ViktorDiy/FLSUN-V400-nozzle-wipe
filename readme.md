@@ -3,11 +3,11 @@ https://www.facebook.com/100094217897627/videos/2682152451932166/ </br>
 </br>
 For this setup you need:</br>
 </br>
-x1 M4 20mm screw </br>
-x2 M4 nut</br>
-x2 bearing 624 ZZ or another wiht 4mm inner diameter, 13mm outer diameter and 5mm width</br>
-x1 MG90S Metal Gear Servo like this - https://www.aliexpress.com/item/1005004195697567.html</br>
-x1 metal brush like this - https://www.aliexpress.com/item/1005004449962700.html</br>
+- x1 M4 20mm screw </br>
+- x2 M4 nut</br>
+- x2 bearing 624 ZZ or another wiht 4mm inner diameter, 13mm outer diameter and 5mm width</br>
+- x1 MG90S Metal Gear Servo like this - https://www.aliexpress.com/item/1005004195697567.html</br>
+- x1 metal brush like this - https://www.aliexpress.com/item/1005004449962700.html</br>
 </br>
 First step - you should print 3 parts from STL files - base, arm and bucket. It was developed for limited printer space for most popular enclosure in internet.</br>
 </br>
