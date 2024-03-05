@@ -17,24 +17,24 @@ Usually you can connect your PWM servo pin via BLTOUCH PWM pin on 3d printer MCU
 out that on this pin I have non standard PWM signal, but heart attack cardiogram )))</br>
 </br>
 I connected PWM servo pin to E1 STEP pin PD15 and power to BLTOUCH GND and +5V:</br>
-![image](https://github.com/ViktorDiy/FLSUN-V400-nozzle-wipe/assets/147925158/a32e8b0b-0394-4e7f-bca7-0ee199edee72)</br>
+![image](https://github.com/ViktorDiy/FLSUN-V400-nozzle-wipe/assets/147925158/a32e8b0b-0394-4e7f-bca7-0ee199edee72) </br>
 </br>
 Setup jumpers for STEP/DIR mode:</br>
-![image](https://github.com/ViktorDiy/FLSUN-V400-nozzle-wipe/assets/147925158/01bf16a8-234c-447c-a957-c3a122b4de70)</br>
+![image](https://github.com/ViktorDiy/FLSUN-V400-nozzle-wipe/assets/147925158/01bf16a8-234c-447c-a957-c3a122b4de70) </br>
 </br>
 MG90S servo pinout:</br>
-![image](https://github.com/ViktorDiy/FLSUN-V400-nozzle-wipe/assets/147925158/5bb4ba07-d599-49fb-af3d-2f71cc971184)</br>
+![image](https://github.com/ViktorDiy/FLSUN-V400-nozzle-wipe/assets/147925158/5bb4ba07-d599-49fb-af3d-2f71cc971184) </br>
 </br>
 Assembled rotation part:</br>
-![image](https://github.com/ViktorDiy/FLSUN-V400-nozzle-wipe/assets/147925158/1b627ad5-fa38-441a-a3de-f6b337808114)</br>
+![image](https://github.com/ViktorDiy/FLSUN-V400-nozzle-wipe/assets/147925158/1b627ad5-fa38-441a-a3de-f6b337808114) </br>
 </br>
 I used this type of servo arrow arm:</br>
-![image](https://github.com/ViktorDiy/FLSUN-V400-nozzle-wipe/assets/147925158/b05194e9-f32c-494f-8739-ed448f7d2972)</br>
+![image](https://github.com/ViktorDiy/FLSUN-V400-nozzle-wipe/assets/147925158/b05194e9-f32c-494f-8739-ed448f7d2972) </br>
 </br>
 Assembled parts in middle arm position of servo should be very close to enclosure wall:</br>
-![image](https://github.com/ViktorDiy/FLSUN-V400-nozzle-wipe/assets/147925158/7e75890f-0aca-4b11-99e7-11304e907240)</br>
+![image](https://github.com/ViktorDiy/FLSUN-V400-nozzle-wipe/assets/147925158/7e75890f-0aca-4b11-99e7-11304e907240) </br>
 </br>
-Then you should add to your printer.cfg file string [include nozzlewiper.cfg].</br>
+Then you should add to your printer.cfg file string [include nozzlewiper.cfg]. </br>
 </br>
 And download to your printer configuration folder example file nozzlewiper.cfg</br>
 </br>
