@@ -45,4 +45,4 @@ and Xaxis (front/face of printer).</br>
 </br>
 And you should find nozzle position under center of the backet. You should move printer head manualy to nozzel position under center of the backet and 1-2 mm lower
 than metal brash.</br>
-You should write this X,Y,Z to nozzelwiper.cfg file.</br>
+You should write this X,Y,Z volumes to nozzelwiper.cfg file.</br>
