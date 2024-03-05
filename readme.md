@@ -10,7 +10,7 @@ x1 metal brush like this - https://www.aliexpress.com/item/1005004449962700.html
 </br>
 First step - you should print 3 parts from STL files - base, arm and bucket. It was developed for limited printer space for most popular enclosure in internet.</br>
 </br>
-It will be usefull to read about this nozzel wiper for Voron 3d printer - https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/chirpy/NozzleWiper</br>
+It will be usefull to read about this nozzel wiper for Voron 3d printer: https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/chirpy/NozzleWiper</br>
 </br>
 Usually you can connect your PWM servo pin via BLTOUCH PWM pin on 3d printer MCU (PA8 for FLSUN castrated clone of MKS Robin nano v2), but after failure try I find</br> 
 out that on this pin I have non standard PWM signal, but heart attack cardiogram )))</br>
