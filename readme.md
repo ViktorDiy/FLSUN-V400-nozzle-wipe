@@ -36,13 +36,13 @@ And download to your printer configuration folder example file nozzlewiper.cfg</
 </br>
 After save and restar on printer dashbord will appear nozzel wiper macro with prefix "NW".</br>
 </br>
-Befor first use you should calibrate initial/parking position angle of arm and working position angle (minimum_pulse_width: for 0 arm angle and maximum_pulse_width: for </br>
+Befor first use you should calibrate initial/parking position angle of arm and working position angle (minimum_pulse_width: for 0 arm angle and maximum_pulse_width: for
 180 angle).</br>
-I use command line on dashboard for that. I try to find by command "SET_SERVO SERVO=wipeServo WIDTH=0.001" number when arm doesn't move after WIDTH decrease and the same </br>
+I use command line on dashboard for that. I try to find by command "SET_SERVO SERVO=wipeServo WIDTH=0.001" number when arm doesn't move after WIDTH decrease and the same
 command wiht WIDTH increase for maximum angle.</br>
-Then you should find by this command volumes for parking position angle and wiping position angle. Wiping positionangle of arm should be 90 degree angle between arm </br>
+Then you should find by this command volumes for parking position angle and wiping position angle. Wiping position angle of arm should be 90 degree angle between arm
 and Xaxis (front/face of printer).</br>
 </br>
-And you should find nozzle position under center of the backet. You should move printer head manualy to nozzel position under center of the backet and 1-2 mm lower </br>
+And you should find nozzle position under center of the backet. You should move printer head manualy to nozzel position under center of the backet and 1-2 mm lower
 than metal brash.</br>
 You should write this X,Y,Z to nozzelwiper.cfg file.</br>
