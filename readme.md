@@ -8,7 +8,7 @@ For this setup you need:</br>
 - x1 MG90S Metal Gear Servo like this - https://www.aliexpress.com/item/1005004195697567.html</br>
 - x1 metal brush like this - https://www.aliexpress.com/item/1005004449962700.html</br>
 </br>
-First step - you should print 3 parts from STL files - base, arm and bucket. It was developed for limited printer space for most popular enclosure in internet.</br>
+First step - you should print 3 parts from STL files - base, arm and bucket. It was developed for limited printer space for most popular enclosure in internet - https://www.printables.com/fr/model/323012-flsun-v400-enclosure-cut-abs-version </br>
 </br>
 It will be usefull to read about this nozzel wiper for Voron 3d printer: https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/chirpy/NozzleWiper</br>
 </br>
