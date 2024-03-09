@@ -31,7 +31,7 @@ Assembled rotation part:</br>
 
 I used this type of servo arrow arm:</br>
 
-![image](https://github.com/ViktorDiy/FLSUN-V400-nozzle-wipe/assets/147925158/b05194e9-f32c-494f-8739-ed448f7d2972) </br>
+![image](https://github.com/ViktorDiy/FLSUN-V400-nozzle-wipe/assets/147925158/6620d116-864c-49e2-90e2-494fa047e89a) </br>
 
 Assembled parts in middle arm position of servo should be very close to enclosure wall:</br>
 
