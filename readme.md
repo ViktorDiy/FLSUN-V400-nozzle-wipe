@@ -18,6 +18,8 @@ out that on this pin I have non standard PWM signal, but heart attack cardiogram
 I connected PWM servo pin to E1 STEP pin PD15 and power to BLTOUCH GND and +5V:</br>
 
 ![image](https://github.com/ViktorDiy/FLSUN-V400-nozzle-wipe/assets/147925158/a32e8b0b-0394-4e7f-bca7-0ee199edee72) </br>
+![image](https://github.com/ViktorDiy/FLSUN-V400-nozzle-wipe/assets/147925158/d700c408-0bb0-4190-bb4e-05c75672be9d) </br>
+
 Setup jumpers for STEP/DIR mode:</br>
 
 ![image](https://github.com/ViktorDiy/FLSUN-V400-nozzle-wipe/assets/147925158/01bf16a8-234c-447c-a957-c3a122b4de70) </br>
