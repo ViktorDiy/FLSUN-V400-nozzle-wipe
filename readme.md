@@ -15,9 +15,8 @@ It will be usefull to read about this nozzel wiper for Voron 3d printer: https:/
 Usually you can connect your PWM servo pin via BLTOUCH PWM pin on 3d printer MCU (PA8 for FLSUN castrated clone of MKS Robin nano v2), but after failure try I find 
 out that on this pin I have non standard PWM signal, but heart attack cardiogram )))</br>
 </br>
-I connected PWM servo pin to E1 STEP pin PD15 and power to BLTOUCH GND and +5V:</br>
+I connected PWM servo pin to E1 STEP pin PD15 and power to BLTOUCH GND and +5V or you can cinnect it to any empty 3pin slots:</br>
 
-![image](https://github.com/ViktorDiy/FLSUN-V400-nozzle-wipe/assets/147925158/a32e8b0b-0394-4e7f-bca7-0ee199edee72) </br>
 ![image](https://github.com/ViktorDiy/FLSUN-V400-nozzle-wipe/assets/147925158/d700c408-0bb0-4190-bb4e-05c75672be9d) </br>
 
 Setup jumpers for STEP/DIR mode:</br>
